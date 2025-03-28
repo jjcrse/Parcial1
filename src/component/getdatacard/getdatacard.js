@@ -1,0 +1,3 @@
+class GetData extends HTMLElement{
+    
+}
